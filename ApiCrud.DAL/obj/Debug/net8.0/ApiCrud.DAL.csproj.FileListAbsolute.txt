@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.DAL.deps.json
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.DAL.runtimeconfig.json
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.DAL.dll
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.DAL.pdb
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.Core.dll
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.Core.pdb
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud..396EE180.Up2Date
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.dll
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\refint\ApiCrud.DAL.dll
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.pdb
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.genruntimeconfig.cache
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ref\ApiCrud.DAL.dll

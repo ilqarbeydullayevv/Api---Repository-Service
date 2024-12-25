@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\bin\Debug\net8.0\ApiCrud.Core.deps.json
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\bin\Debug\net8.0\ApiCrud.Core.dll
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\bin\Debug\net8.0\ApiCrud.Core.pdb
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.dll
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\refint\ApiCrud.Core.dll
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.pdb
+C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\ref\ApiCrud.Core.dll
