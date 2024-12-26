@@ -9,8 +9,10 @@ using ApiCrud.Business.Helpers.Exceptions;
 using ApiCrud.Business.Helpers.Exceptions.Common;
 using ApiCrud.Business.Services.Interface;
 using ApiCrud.Core.Entities;
+using ApiCrud.DAL.Repositories.implementations;
 using ApiCrud.DAL.Repositories.Interface;
 using AutoMapper;
+using Microsoft.AspNetCore.Http.HttpResults;
 
 namespace ApiCrud.Business.Services.Implementations
 {
@@ -19,14 +21,12 @@ namespace ApiCrud.Business.Services.Implementations
         readonly ICategoryRepository _rep;
         readonly IMapper    _mapper;
 
-        public CategoryService(IMapper mapper)
-        {
-            _mapper = mapper;
-        }
 
-        public CategoryService(ICategoryRepository rep)
+
+        public CategoryService(ICategoryRepository rep, IMapper mapper)
         {
             _rep = rep;
+            _mapper = mapper;
         }
 
         public async Task<GetCategoryDTO> create(CreateCategoryDTO DTO)
@@ -38,12 +38,24 @@ namespace ApiCrud.Business.Services.Implementations
             }
             var category = _mapper.Map<Category>(DTO);
             var newcategory = await _rep.Create(category);
-             _rep.Savechanges();
+             await _rep.Savechanges();
             return _mapper.Map<GetCategoryDTO>(newcategory);
 
         }
 
-        public GetCategoryDTO GetById(int id)
+        public List<GetCategoryDTO> GetAll()
+        {
+            List<GetCategoryDTO> dtos = new();
+            var datas = _rep.GetAll();
+            foreach (var item in datas)
+            { 
+            GetCategoryDTO dto = _mapper.Map<GetCategoryDTO>(item);
+            dtos.Add(dto);
+            }
+           return dtos;
+        }
+
+        public async Task<GetCategoryDTO> GetById(int id)
         {
             
            if(id <= 0)
@@ -51,24 +63,28 @@ namespace ApiCrud.Business.Services.Implementations
                 throw new NullIdException();
             }
 
-           GetCategoryDTO dtos = _mapper.Map<GetCategoryDTO>(_rep.GetById(id));
-            return dtos;
+            GetCategoryDTO dtos = _mapper.Map<GetCategoryDTO>(await _rep.GetById(id));
+            return  dtos;
 
            
         }
 
         public async Task update(UpdateCategoryDTO DTo)
         {
-            var oldcategory =   GetById(DTo.Id);
+            var oldcategory =  await GetById(DTo.Id);
             if (await _rep.IsExsist(c => c.Name == DTo.Name))
             {
 
                 throw new CategoryNameExsistException();
             }
-            oldcategory= _mapper.Map<GetCategoryDTO>(oldcategory);
+            oldcategory = _mapper.Map<GetCategoryDTO>(DTo);
+
             _rep.Update(_mapper.Map<Category>(oldcategory));
-             _rep.Savechanges();
+             await _rep.Savechanges();
+            
 
         }
+
+       
     }
 }

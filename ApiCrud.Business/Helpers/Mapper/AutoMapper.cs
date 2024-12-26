@@ -14,6 +14,7 @@ namespace ApiCrud.Business.Helpers.Mapper
         public AutoMapper()
         {
             CreateMap<GetCategoryDTO, Category>().ReverseMap();
+            CreateMap<GetAllCategoryDTO, Category>().ReverseMap();
             CreateMap<CreateCategoryDTO, Category>().ReverseMap();
             CreateMap<UpdateCategoryDTO, GetCategoryDTO>().ReverseMap();
         }

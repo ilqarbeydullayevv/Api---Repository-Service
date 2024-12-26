@@ -9,8 +9,10 @@ namespace ApiCrud.Business.Services.Interface
 {
     public interface ICategoryService
     {
+        
         Task<GetCategoryDTO> create(CreateCategoryDTO DTO);
-        GetCategoryDTO GetById(int id);
+       Task< GetCategoryDTO> GetById(int id);
+         List<GetCategoryDTO> GetAll();
         Task update(UpdateCategoryDTO DTo);
     }
 }

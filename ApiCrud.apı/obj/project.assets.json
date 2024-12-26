@@ -5396,19 +5396,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\ca r221.14\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.apı\\ApiCrud.apı.csproj",
+      "projectUniqueName": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.apı\\ApiCrud.apı.csproj",
       "projectName": "ApiCrud.apı",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.apı\\ApiCrud.apı.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.apı\\obj\\",
+      "projectPath": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.apı\\ApiCrud.apı.csproj",
+      "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.apı\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ca r221.14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5423,8 +5428,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.Business\\ApiCrud.Business.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.Business\\ApiCrud.Business.csproj"
+            "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Business\\ApiCrud.Business.csproj": {
+              "projectPath": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Business\\ApiCrud.Business.csproj"
             }
           }
         }
@@ -5478,7 +5483,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

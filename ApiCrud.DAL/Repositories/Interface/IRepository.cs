@@ -11,10 +11,10 @@ namespace ApiCrud.DAL.Repositories.Interface
 {
     public interface IRepository<Tentity> where Tentity : BaseEntity, new()
     {
-     public DbSet<Tentity> Table();
+     public DbSet<Tentity> Table { get;  }
      public Task<Tentity> GetById(int id);
      public IQueryable<Tentity> FindAll(Expression<Func<Tentity, bool>> expression);
-     public  IQueryable<Tentity> GetAll();
+     public IQueryable<Tentity> GetAll();
         public Task<Tentity> Create(Tentity entity);
         public void Update(Tentity entity);
         public void Delete(Tentity entity);

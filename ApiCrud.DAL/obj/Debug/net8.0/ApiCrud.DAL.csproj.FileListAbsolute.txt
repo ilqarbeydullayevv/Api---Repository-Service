@@ -15,3 +15,21 @@ C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\refint\ApiCrud.DAL
 C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.pdb
 C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.genruntimeconfig.cache
 C:\Users\HP\source\repos\ApiCrud\ApiCrud.DAL\obj\Debug\net8.0\ref\ApiCrud.DAL.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.DAL.deps.json
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.DAL.runtimeconfig.json
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.DAL.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.DAL.pdb
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.Core.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\bin\Debug\net8.0\ApiCrud.Core.pdb
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.AssemblyInfo.cs
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.sourcelink.json
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud..396EE180.Up2Date
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\refint\ApiCrud.DAL.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.pdb
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ApiCrud.DAL.genruntimeconfig.cache
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.DAL\obj\Debug\net8.0\ref\ApiCrud.DAL.dll

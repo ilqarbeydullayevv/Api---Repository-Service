@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2257E66-37F7-44C0-B80D-C643A00E7C17}|ApiCrud.ap\u0131\\ApiCrud.ap\u0131.csproj|c:\\users\\ca r221.14\\desktop\\api---repository-service\\apicrud.ap\u0131\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2257E66-37F7-44C0-B80D-C643A00E7C17}|ApiCrud.ap\u0131\\ApiCrud.ap\u0131.csproj|solutionrelative:apicrud.ap\u0131\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB2279-95DD-4769-A488-060DC69D4074}|ApiCrud.Business\\ApiCrud.Business.csproj|c:\\users\\ca r221.14\\desktop\\api---repository-service\\apicrud.business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB2279-95DD-4769-A488-060DC69D4074}|ApiCrud.Business\\ApiCrud.Business.csproj|solutionrelative:apicrud.business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB2279-95DD-4769-A488-060DC69D4074}|ApiCrud.Business\\ApiCrud.Business.csproj|c:\\users\\ca r221.14\\desktop\\api---repository-service\\apicrud.business\\dtos\\category\\getallcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB2279-95DD-4769-A488-060DC69D4074}|ApiCrud.Business\\ApiCrud.Business.csproj|solutionrelative:apicrud.business\\dtos\\category\\getallcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB2279-95DD-4769-A488-060DC69D4074}|ApiCrud.Business\\ApiCrud.Business.csproj|c:\\users\\ca r221.14\\desktop\\api---repository-service\\apicrud.business\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB2279-95DD-4769-A488-060DC69D4074}|ApiCrud.Business\\ApiCrud.Business.csproj|solutionrelative:apicrud.business\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C7FB39-279C-475A-B571-3D229D6443CC}|ApiCrud.DAL\\ApiCrud.DAL.csproj|c:\\users\\ca r221.14\\desktop\\api---repository-service\\apicrud.dal\\repositories\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C7FB39-279C-475A-B571-3D229D6443CC}|ApiCrud.DAL\\ApiCrud.DAL.csproj|solutionrelative:apicrud.dal\\repositories\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C7FB39-279C-475A-B571-3D229D6443CC}|ApiCrud.DAL\\ApiCrud.DAL.csproj|c:\\users\\ca r221.14\\desktop\\api---repository-service\\apicrud.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C7FB39-279C-475A-B571-3D229D6443CC}|ApiCrud.DAL\\ApiCrud.DAL.csproj|solutionrelative:apicrud.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB2279-95DD-4769-A488-060DC69D4074}|ApiCrud.Business\\ApiCrud.Business.csproj|c:\\users\\ca r221.14\\desktop\\api---repository-service\\apicrud.business\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB2279-95DD-4769-A488-060DC69D4074}|ApiCrud.Business\\ApiCrud.Business.csproj|solutionrelative:apicrud.business\\services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C15299-F51E-4B7E-8B48-8823E8EF5F69}|ApiCrud.Core\\ApiCrud.Core.csproj|c:\\users\\ca r221.14\\desktop\\api---repository-service\\apicrud.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C15299-F51E-4B7E-8B48-8823E8EF5F69}|ApiCrud.Core\\ApiCrud.Core.csproj|solutionrelative:apicrud.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Business\\DTOs\\Category\\GetAllCategoryDTO.cs",
+              "RelativeDocumentMoniker": "ApiCrud.Business\\DTOs\\Category\\GetAllCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Business\\DTOs\\Category\\GetAllCategoryDTO.cs",
+              "RelativeToolTip": "ApiCrud.Business\\DTOs\\Category\\GetAllCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:19:22.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "ApiCrud.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "ApiCrud.Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:46:49.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Business\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ApiCrud.Business\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Business\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "ApiCrud.Business\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwFcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:31:09.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Business\\Services\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ApiCrud.Business\\Services\\Interface\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Business\\Services\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "ApiCrud.Business\\Services\\Interface\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:23:37.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ApiCrud.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "ApiCrud.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:45:29.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.ap\u0131\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ApiCrud.ap\u0131\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.ap\u0131\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ApiCrud.ap\u0131\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAEkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:40:46.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.DAL\\Repositories\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "ApiCrud.DAL\\Repositories\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.DAL\\Repositories\\Interface\\IRepository.cs",
+              "RelativeToolTip": "ApiCrud.DAL\\Repositories\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:36:22.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.DAL\\Repositories\\implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "ApiCrud.DAL\\Repositories\\implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.DAL\\Repositories\\implementations\\Repository.cs",
+              "RelativeToolTip": "ApiCrud.DAL\\Repositories\\implementations\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:36:26.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

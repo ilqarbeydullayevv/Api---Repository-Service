@@ -15,3 +15,21 @@ C:\Users\HP\source\repos\ApiCrud\ApiCrud.Business\obj\Debug\net8.0\ApiCrud.Busin
 C:\Users\HP\source\repos\ApiCrud\ApiCrud.Business\obj\Debug\net8.0\refint\ApiCrud.Business.dll
 C:\Users\HP\source\repos\ApiCrud\ApiCrud.Business\obj\Debug\net8.0\ApiCrud.Business.pdb
 C:\Users\HP\source\repos\ApiCrud\ApiCrud.Business\obj\Debug\net8.0\ref\ApiCrud.Business.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\bin\Debug\net8.0\ApiCrud.Business.deps.json
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\bin\Debug\net8.0\ApiCrud.Business.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\bin\Debug\net8.0\ApiCrud.Business.pdb
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\bin\Debug\net8.0\ApiCrud.Core.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\bin\Debug\net8.0\ApiCrud.DAL.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\bin\Debug\net8.0\ApiCrud.DAL.pdb
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\bin\Debug\net8.0\ApiCrud.Core.pdb
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\ApiCrud.Business.csproj.AssemblyReference.cache
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\ApiCrud.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\ApiCrud.Business.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\ApiCrud.Business.AssemblyInfo.cs
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\ApiCrud.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\ApiCrud.Business.sourcelink.json
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\ApiCrud..B46F5318.Up2Date
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\ApiCrud.Business.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\refint\ApiCrud.Business.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\ApiCrud.Business.pdb
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Business\obj\Debug\net8.0\ref\ApiCrud.Business.dll

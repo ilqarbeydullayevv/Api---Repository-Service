@@ -9,3 +9,15 @@ C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.dll
 C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\refint\ApiCrud.Core.dll
 C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.pdb
 C:\Users\HP\source\repos\ApiCrud\ApiCrud.Core\obj\Debug\net8.0\ref\ApiCrud.Core.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\bin\Debug\net8.0\ApiCrud.Core.deps.json
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\bin\Debug\net8.0\ApiCrud.Core.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\bin\Debug\net8.0\ApiCrud.Core.pdb
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.AssemblyInfo.cs
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.sourcelink.json
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\obj\Debug\net8.0\refint\ApiCrud.Core.dll
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\obj\Debug\net8.0\ApiCrud.Core.pdb
+C:\Users\ca r221.14\Desktop\Api---Repository-Service\ApiCrud.Core\obj\Debug\net8.0\ref\ApiCrud.Core.dll

@@ -7,6 +7,7 @@ using ApiCrud.Core.Entities;
 using ApiCrud.DAL.Context;
 using AutoMapper;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -24,11 +25,11 @@ namespace ApiCrud.apı.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult get(int id)
+        public async Task< IActionResult> get(int id)
         {
             try
             {
-                return Ok(categoryService.GetById(id));
+                return Ok( await categoryService.GetById(id));
             }
             catch (Exception ex)
             {
@@ -55,13 +56,28 @@ namespace ApiCrud.apı.Controllers
                 return BadRequest(ex.Message);
             }
         }
-
+        [HttpPut]
         public async Task<IActionResult> Update([FromForm] UpdateCategoryDTO DTO)
         {
             try
             {
               await  categoryService.update(DTO);
                 return Ok();
+
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+        }
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+
+            try
+            {
+                return Ok(categoryService.GetAll());
 
             }
             catch (Exception ex)

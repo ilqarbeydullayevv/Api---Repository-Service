@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.DAL\\ApiCrud.DAL.csproj": {}
+    "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.DAL\\ApiCrud.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.Core\\ApiCrud.Core.csproj": {
+    "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Core\\ApiCrud.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.Core\\ApiCrud.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Core\\ApiCrud.Core.csproj",
         "projectName": "ApiCrud.Core",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.Core\\ApiCrud.Core.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.Core\\obj\\",
+        "projectPath": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Core\\ApiCrud.Core.csproj",
+        "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ca r221.14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +65,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.DAL\\ApiCrud.DAL.csproj": {
+    "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.DAL\\ApiCrud.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.DAL\\ApiCrud.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.DAL\\ApiCrud.DAL.csproj",
         "projectName": "ApiCrud.DAL",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.DAL\\ApiCrud.DAL.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.DAL\\obj\\",
+        "projectPath": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.DAL\\ApiCrud.DAL.csproj",
+        "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ca r221.14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.Core\\ApiCrud.Core.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\ApiCrud\\ApiCrud.Core\\ApiCrud.Core.csproj"
+              "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Core\\ApiCrud.Core.csproj": {
+                "projectPath": "C:\\Users\\ca r221.14\\Desktop\\Api---Repository-Service\\ApiCrud.Core\\ApiCrud.Core.csproj"
               }
             }
           }
@@ -142,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

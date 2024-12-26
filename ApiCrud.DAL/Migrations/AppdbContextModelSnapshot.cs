@@ -73,17 +73,12 @@ namespace ApiCrud.DAL.Migrations
             modelBuilder.Entity("ApiCrud.Core.Entities.Product", b =>
                 {
                     b.HasOne("ApiCrud.Core.Entities.Category", "Category")
-                        .WithMany("Products")
+                        .WithMany()
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Category");
-                });
-
-            modelBuilder.Entity("ApiCrud.Core.Entities.Category", b =>
-                {
-                    b.Navigation("Products");
                 });
 #pragma warning restore 612, 618
         }
